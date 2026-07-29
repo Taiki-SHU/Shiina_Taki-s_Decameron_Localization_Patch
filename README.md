@@ -239,7 +239,6 @@ asset
 ## Notes
 
 - Audio, countdown videos, the final ED, and non-aphorism cutscenes are not modified.
-- 图片和视频中的内嵌文字不会被替换；只为七张箴言卡提供字幕。
 - Source Han Sans JP/KR fonts are distributed under the SIL Open Font License. See `fonts/LICENSE-SourceHanSans.txt`.
 - This package contains only patch files and the proofreading tool. It does not contain the game.
 
