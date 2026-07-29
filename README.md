@@ -238,6 +238,7 @@ asset
 
 ## Notes
 
+- The development team has kindly granted permission for this patch to be released as a fan-made project.
 - Audio, countdown videos, the final ED, and non-aphorism cutscenes are not modified.
 - Source Han Sans JP/KR fonts are distributed under the SIL Open Font License. See `fonts/LICENSE-SourceHanSans.txt`.
 - This package contains only patch files and the proofreading tool. It does not contain the game.
