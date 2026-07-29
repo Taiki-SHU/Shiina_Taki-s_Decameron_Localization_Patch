@@ -11,6 +11,7 @@ Version 1.2.0
 - Adds English, Korean, and Japanese localization modes.
 - Displays the original Chinese line above the selected translation.
 - Covers story text, speaker names, choices, UI text, backlog, and seven aphorism cards.
+- Does not include translations for the main title screen, as its text appears to be embedded in images.
 - Includes a local proofreading editor that can save corrections directly to JSON.
 
 ### Easy installation and language switching
